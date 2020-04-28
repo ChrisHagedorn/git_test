@@ -1,0 +1,1 @@
+This is a git from command line test project!
